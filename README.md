@@ -9,4 +9,4 @@
 * ASMR Programming + Lofi: https://www.youtube.com/channel/UC5dNGzdstAm3nq0u3M3gvlA
 
 ### 😀 Tutorial:
-* ASMR Programming - Coding a "Hello World" Top 10 Github Programming Languages - No Talking: #
+* ASMR Programming - Coding a "Hello World" Top 10 Github Programming Languages - No Talking: https://www.youtube.com/watch?v=rGC2ZWmSZ-Y&t=75s
